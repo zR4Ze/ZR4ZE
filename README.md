@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="center">Hello 👋 I’m Ardonis, a web development trainee from Germany.</h2>
+<h2 data-importer="text" align="center">Hi 👋 I'm Ardonis, a 19 year old web development apprentice from Germany.</h2>
 
 ###
 
-<p data-importer="text" align="center">I'm currently learning web development with a strong focus on backend development, mainly working with PHP and Laravel. I care about clean code, well-structured architecture and writing maintainable code with meaningful comments. I'm always eager to learn new technologies, improve my skills and gain practical experience. My goal is to continuously grow as a developer and become a strong PHP/Laravel Developer.
+<p data-importer="text" align="center">I'm currently learning web development with a strong focus on backend development, mainly working with PHP and Laravel. I care about clean code, well structured architecture and writing maintainable code with meaningful comments. I'm always eager to learn new technologies, improve my skills and gain practical experience. My goal is to continuously grow as a developer and become a strong PHP/Laravel Developer.
 </p>
 
 ###

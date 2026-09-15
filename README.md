@@ -1,34 +1,83 @@
-# Hi, I'm Ardonis 👋
+<h2 data-importer="text" align="center">Hello 👋 I’m Ardonis, a web development trainee from Germany.</h2>
 
-💻 Apprentice Software Developer
-🚀 Backend Focus (Laravel)
-📍 Germany
+###
 
----
+<p data-importer="text" align="center">I'm currently learning web development with a strong focus on backend development, mainly working with PHP and Laravel. I care about clean code, well-structured architecture and writing maintainable code with meaningful comments. I'm always eager to learn new technologies, improve my skills and gain practical experience. My goal is to continuously grow as a developer and become a strong PHP/Laravel Developer.
+</p>
 
-## ⚡ About Me
+###
 
-* 💡 Passionate about backend development
-* 🧠 Focused on clean architecture & structured code
-* 🚀 Building real-world web applications
-* 📈 Constantly improving my skills
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=zR4Ze&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
----
+###
 
-## 🛠️ Tech Stack
+<br clear="both">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
----
+###
 
-## 📫 Contact
+<div data-importer="socials" align="center">
+  <a href="https://www.instagram.com/ardonisademi_dev" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /> 
+  </a>
+  
+  <img width="12" /> 
+  
+  <a href="https://www.linkedin.com/in/ardonis-ademi-197846403/" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /> 
+  </a> 
+  
+  <img width="12" />
+  
+  <a href="https://www.youtube.com/@ArdonisIT" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /> 
+  </a> 
+</div>
 
-* 📧 Email: [ardonis.ademi@icloud.com](mailto:ardonis.ademi@icloud.com)
-* 💼 Instagram: [ardonisademi_dev](https://www.instagram.com/ardonisademi_dev)
-* 🌐 Website: [ardonisademi.de](https://ardonisademi.de)
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/zR4Ze/zR4Ze/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<div align="center">
+  <p>
+    📧 <strong>Email:</strong>
+    <a href="mailto:ardonis.ademi@icloud.com">ardonis.ademi@icloud.com</a>
+  </p>
+
+  <p>
+    🌐 <strong>Website:</strong>
+    <a href="https://ardonisademi.de">ardonisademi.de</a>
+  </p>
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=zR4Ze.zR4Ze&"  />
+</div>
+
+###
 
